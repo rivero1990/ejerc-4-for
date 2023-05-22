@@ -1,0 +1,36 @@
+body {
+    place-content: center;
+    display: grid;
+    background-color: lightblue;
+}
+
+#primer-recuadro {
+    height: 50px;
+    border: 3px solid black;
+    padding: 10px;
+    background-color: tomato;
+    width: 400px;
+    margin-left: 175px;
+}
+
+input {
+    border: 2px solid black;
+    background-color: seagreen;
+    margin-left: 85px;
+    margin-top: 10px;
+}
+
+button {
+    border: 2px solid navy;
+}
+
+#contenedor-imagenes {
+    margin-top: 30px;
+    border: 3px solid firebrick;
+    padding: 10px;
+    width: 100vh;
+}
+
+img {
+    width: 100px;
+}
